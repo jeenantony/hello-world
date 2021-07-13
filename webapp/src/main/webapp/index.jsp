@@ -2,13 +2,11 @@
 <html>
 <body style="background-color:powderblue;">
 
-<h1> style="color:black;">This is Outcome of CICD Project</h1>
-<p> style="color:green;">Tools Used</p>
+<h1> This is Outcome of CICD Pipeline Hosted a Apache Tomcat Server</h1>
+<p> Tools Used</p>
 <p>Jenkins</p>
 <p>Git</p>
 <p>Maven</p>
-<p> style="color:green;">Application Hosted</p>
-<p>Apache Tomcat</p>
 
 </body>
 </html>
