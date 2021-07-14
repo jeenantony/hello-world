@@ -2,7 +2,7 @@
 <html>
 <body style="background-color:powderblue;">
 
-<h1> This is Outcome of CICD Pipeline Hosted a Apache Tomcat Server</h1>
+<h1> This is Apache Tomcat Server</h1>
 <p> Tools Used</p>
 <p>Jenkins</p>
 <p>Git</p>
