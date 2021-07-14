@@ -7,6 +7,7 @@
 <p>Jenkins</p>
 <p>Git</p>
 <p>Maven</p>
+<p>Ansible</p>
 
 </body>
 </html>
